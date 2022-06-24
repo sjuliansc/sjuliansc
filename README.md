@@ -8,5 +8,5 @@
 sjuliansc/sjuliansc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-The is an error in Standard.pm. When a run a program with the instruction: use libUSB::Device; in Windows, the system return me the following error:
+There is an error in Standard.pm. When I run a program with the instruction: use libUSB::Device; in Windows, the system returns to me the following error:
 "Bareword "Type::Tiny::_USE_XS not allowed while "strict subs" in use at C:\perl\site\lib\Types\Standard.pm line 51.
